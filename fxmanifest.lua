@@ -1,16 +1,7 @@
--- ----------------------------------------------
-
---   This file is part of LS Stories FiveM Server.
-
---   Unauthorized copying and modifying of this file via any medium
---   is strictly prohibited and protected by copyright laws. 
---   Licensed under BSD License
-  
--- ---------------------------------------------- 
-
 fx_version "cerulean"
 game "gta5"
 lua54 'yes'
+author 'Juliroo'
 
 client_scripts {
   'game/dist/index.js',

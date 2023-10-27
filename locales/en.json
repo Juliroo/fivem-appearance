@@ -1,0 +1,150 @@
+{
+  "modal": {
+    "save": {
+      "title": "Save Customization",
+      "description": "You will still look ugly"
+    },
+    "exit": {
+      "title": "Exit Customization",
+      "description": "Changes will not be saved"
+    },
+    "accept": "Yes",
+    "decline": "No"
+  },
+  "ped": {
+    "title": "Character",
+    "model": "Model"
+  },
+  "headBlend": {
+    "title": "Heritage",
+    "shape": {
+      "title": "Face",
+      "firstOption": "Father",
+      "secondOption": "Mother",
+      "mix": "Mix"
+    },
+    "skin": {
+      "title": "Skin",
+      "firstOption": "Father",
+      "secondOption": "Mother",
+      "mix": "Mix"
+    },
+    "race": {
+      "title": "Race",
+      "shape": "Face",
+      "skin": "Skin",
+      "mix": "Mix"
+    }
+  },
+  "faceFeatures": {
+    "title": "Face Features",
+    "nose": {
+      "title": "Nose",
+      "width": "Width",
+      "height": "Height",
+      "size": "Size",
+      "boneHeight": "Bone Height",
+      "boneTwist": "Bone Twist",
+      "peakHeight": "Peak Height"
+    },
+    "eyebrows": {
+      "title": "Eyebrows",
+      "height": "Height",
+      "depth": "Depth"
+    },
+    "cheeks": {
+      "title": "Cheeks",
+      "boneHeight": "Bone Height",
+      "boneWidth": "Bone Width",
+      "width": "Width"
+    },
+    "eyesAndMouth": {
+      "title": "Eyes and Mouth",
+      "eyesOpening": "Eyes Opening",
+      "lipsThickness": "Lip Thickness"
+    },
+    "jaw": {
+      "title": "Jaw",
+      "width": "Width",
+      "size": "Size"
+    },
+    "chin": {
+      "title": "Chin",
+      "lowering": "Lowering",
+      "length": "Length",
+      "size": "Size",
+      "hole": "Hole Size"
+    },
+    "neck": {
+      "title": "Neck",
+      "thickness": "Thickness"
+    }
+  },
+  "headOverlays": {
+    "title": "Appearance",
+    "hair": {
+      "title": "Hair",
+      "style": "Style",
+      "color": "Color",
+      "highlight": "Highlight",
+      "texture": "Texture",
+      "fade": "Fade"
+    },
+    "opacity": "Opacity",
+    "style": "Style",
+    "color": "Color",
+    "secondColor": "Secondary Color",
+    "blemishes": "Blemishes",
+    "beard": "Beard",
+    "eyebrows": "Eyebrows",
+    "ageing": "Ageing",
+    "makeUp": "Makeup",
+    "blush": "Blush",
+    "complexion": "Complexion",
+    "sunDamage": "Sun Damage",
+    "lipstick": "Lipstick",
+    "moleAndFreckles": "Moles and Freckles",
+    "chestHair": "Chest Hair",
+    "bodyBlemishes": "Body Blemishes",
+    "eyeColor": "Eye Color"
+  },
+  "components": {
+    "title": "Clothing",
+    "drawable": "Clothing Item",
+    "texture": "Texture",
+    "mask": "Mask",
+    "upperBody": "Upper Body",
+    "lowerBody": "Lower Body",
+    "bags": "Bags and Parachutes",
+    "shoes": "Shoes",
+    "scarfAndChains": "Scarves and Chains",
+    "shirt": "Shirt",
+    "bodyArmor": "Body Armor",
+    "decals": "Decals",
+    "jackets": "Jackets"
+  },
+  "props": {
+    "title": "Accessories",
+    "drawable": "Accessory",
+    "texture": "Texture",
+    "hats": "Hats and Helmets",
+    "glasses": "Glasses",
+    "ear": "Earrings",
+    "watches": "Watches",
+    "bracelets": "Bracelets"
+  },
+  "tattoos": {
+    "title": "Tattoos",
+    "items": {
+      "ZONE_TORSO": "Torso",
+      "ZONE_HEAD": "Head",
+      "ZONE_LEFT_ARM": "Left Arm",
+      "ZONE_RIGHT_ARM": "Right Arm",
+      "ZONE_LEFT_LEG": "Left Leg",
+      "ZONE_RIGHT_LEG": "Right Leg"
+    },
+    "apply": "Apply",
+    "delete": "Delete",
+    "deleteAll": "Delete All"
+  }
+}
